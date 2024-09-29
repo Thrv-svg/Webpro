@@ -59,8 +59,8 @@ x
         </div>
         <div class="column">
             <video class="video" controls>
-                <source src="video_perkenalan.mp4" type="video/mp4">
-                Your browser does not support the video tag.
+                <source src="Vidio perkenalan.mp4" type="video/mp4">
+                
             </video>
             <!-- video: Menampilkan dan memutar video -->
         </div>
